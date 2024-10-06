@@ -21,7 +21,7 @@ The project is under rapid development and there is also a lot of work to be don
 
 ## Docs
 
-Click [here](ourchat.rtfd.io/).We deployed it on readthedocs.
+Click [here](https://ourchat.rtfd.io/).We deployed it on readthedocs.
 
 ## Contribution
 
