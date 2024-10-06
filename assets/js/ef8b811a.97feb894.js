@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkskyuoi=self.webpackChunkskyuoi||[]).push([[947],{6600:u=>{u.exports=JSON.parse('{"authors":[{"name":"\u674e\u6c90\u9633","title":"SkyUOI Owner","page":{"permalink":"/blog/authors/limuy"},"socials":{"github":"https://github.com/limuy2022"},"imageURL":"https://github.com/limuy2022.png","key":"limuy","count":1}]}')}}]);

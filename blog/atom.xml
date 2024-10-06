@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-site.example.com/blog</id>
+    <title>SkyUOI Blog</title>
+    <updated>2024-10-06T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-site.example.com/blog"/>
+    <subtitle>SkyUOI Blog</subtitle>
+    <icon>https://your-docusaurus-site.example.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/welcome</id>
+        <link href="https://your-docusaurus-site.example.com/blog/welcome"/>
+        <updated>2024-10-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to SkyUOI!]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to SkyUOI!</p>]]></content>
+        <author>
+            <name>李沐阳</name>
+        </author>
+    </entry>
+</feed>
