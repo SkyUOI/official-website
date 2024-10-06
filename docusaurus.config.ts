@@ -74,7 +74,6 @@ const config: Config = {
       items: [
       {
           type: 'dropdown',
-          // sidebarId: 'productsSidebar',
           position: 'left',
           label: 'Products',
           items: [
@@ -82,9 +81,15 @@ const config: Config = {
             {label: "Zenith", href: "/docs/products/zenith/intro"},
           ],
         },
+        // {
+        //   type: 'docSidebar',
+        //   sidebarId: 'developersSidebar',
+        //   position: 'left',
+        //   label: 'Developers',
+        // },
         {
-          type: 'docSidebar',
-          sidebarId: 'developersSidebar',
+          type: 'doc',
+          docId: 'developers/intro',
           position: 'left',
           label: 'Developers',
         },
