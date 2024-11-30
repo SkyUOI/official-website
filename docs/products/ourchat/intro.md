@@ -29,6 +29,8 @@ Please see [CONTRIBUTING](https://ourchat.readthedocs.io/en/latest/docs/developm
 
 ## Main Maintainers
 
-### [limuy](../../developers/intro#sky_emperor)
+- [limuy](../../developers/intro#sky_emperor)
 
-### [senlinjun](../../developers/intro#ui_master)
+- [senlinjun](../../developers/intro#ui_master)
+
+- [omo](../../developers/intro#grammar_master)
